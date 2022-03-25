@@ -32,4 +32,4 @@ Our gender analysis showed that there were many more male customers than female,
 ![img](https://github.com/kchavez05/bikesharing/blob/main/pics/Trips_by_Gender_Weekday.PNG)
 
 ## Summary:
-Although these data are from New York City - a far denser and more populous city than Des Moines, the time of day and gender usage data is relevant.  The biggest takeaway is that bike rental is most popular around locations with a great deal of pedestrian traffic - e.g. transportation hubs, stadiums, and tourist hotspots.
+Although these data are from New York City - a far denser and more populous city than Des Moines, the time of day and gender usage data is relevant.  The biggest takeaway is that bike rental is most popular around locations with a great deal of pedestrian traffic - e.g. transportation hubs, stadiums, and tourist hotspots.  Two additional visualisations that would be informative would be Locations with Highest Gross Revenue to see which locations are making the most money and Maintenance Needs by Location to see which stations might be being vandalized or having the bikes abused.
