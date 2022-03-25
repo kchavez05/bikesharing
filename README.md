@@ -1,6 +1,6 @@
 # NYC Citibike Analysis
 
-[Link to Dashboard](https://public.tableau.com/views/NYCCitibikeAnalysis_16481747341560/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Link to Dashboard](https://public.tableau.com/views/NYCCitibikeAnalysis_16481747341560/CitibikeAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Overview:
 
